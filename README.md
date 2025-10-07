@@ -31,6 +31,7 @@ Playwright (@playwright/test)
 JavaScript (ES Modules)
 Page Object Model (POM)
 HTML Reporter
+
 ----------------------------------------------------------------------------
   Assumptions & Limitations
 - Environment: Desktop browsers (Chromium, Firefox, WebKit).
